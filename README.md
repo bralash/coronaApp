@@ -1,6 +1,6 @@
-# coronaapp
+# Corona AppDates
 
-A new Flutter application.
+A simple Flutter application which displays the current data on all Corona cases.
 
 ## Getting Started
 
