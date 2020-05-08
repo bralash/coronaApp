@@ -2,7 +2,7 @@ import 'package:coronaapp/constant.dart';
 import 'package:flutter/material.dart';
 
 class Counter extends StatelessWidget {
-  final int number;
+  final String number;
   final Color color;
   final String title;
   
@@ -40,7 +40,7 @@ class Counter extends StatelessWidget {
         Text(
           "$number", 
           style: TextStyle(
-            fontSize: 30,
+            fontSize: 20,
             color: color,
           ),
         ),
