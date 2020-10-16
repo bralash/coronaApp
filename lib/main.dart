@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,  
-      title: 'Covid 19',
+      title: 'Covid 19 is Dead',
       theme: ThemeData(
         scaffoldBackgroundColor: kBackgroundColor,
         fontFamily: "Poppins",
